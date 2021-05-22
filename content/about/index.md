@@ -1,19 +1,27 @@
 ---
 title: 'About Me'
-avatar: './me.jpg'
+avatar: './shreyansh-jain.jpeg'
 skills:
-  - JavaScript (ES6+)
-  - HTML & (S)CSS
-  - React
-  - Vue
-  - Node.js
-  - WordPress
+  - Node JS
+  - Angular
+  - React-Native
+  - MySQL
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA.
+Hello! I'm Shreyansh, a software Engineer at [Riverhouse Technologies LLP, Bhilai](https://riverhousetechnologies.com/). 
 
-I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
+My role includes developing custom software solutions for various businesses consisting of mobile/web/desktop apps. I am passionate about software products and the impact it has on its end-users. I believe in writing efficient, scalable, and robust codes.
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+<!-- I have worked on various technologies in my career, and I am always curious about learning new technologies, they are: -->
+
+<!-- Angular, Node JS, PHP, Android, MySQL, C, git. -->
+
+<!-- I have experience in deploying a software product end-to-end to cloud more precisely AWS, and I have used many services of AWS, some of them are EC2 (Instances, Key-pair, Security group, ELB (HTTP/HTTPS), Target Group, Elastic IP), S3 Bucket, Route 53 ( DNS Management ), ACM, etc. -->
+
+<!-- During my career, I have integrated my work with many awesome libraries, some of them are socket.io, Threejs. -->
+
+I am a trained Engineer with the degree of Bachelor of Engineering aka B.E. with the specialization in Information Technology from [Bhilai Institute of Technology, Durg (C.G.)](http://bitdurg.ac.in/)
+
+I always believe in getting things done.
 
 Here are a few technologies I've been working with recently:

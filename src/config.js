@@ -1,38 +1,42 @@
 module.exports = {
-  siteTitle: 'Brittany Chiang | Software Engineer',
+  siteTitle: 'Shreyansh Jain | Software Engineer',
   siteDescription:
-    'Brittany Chiang is a software engineer based in Boston, MA who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
+    'Shreyansh Jain is a software engineer based in Bhilai, Chhattisgarh, India who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
-  siteUrl: 'https://brittanychiang.com',
+    'Shreyansh Jain, Jain, Shreyansh,shreyansh-jain, software engineer, front-end engineer, web developer, javascript, india, chhattisgarh, Bhilai, Developer, Entrepreneur',
+  siteUrl: 'https://shreyansh-jain.com',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Brittany Chiang',
-  location: 'Boston, MA',
-  email: 'brittany.chiang@gmail.com',
-  github: 'https://github.com/bchiang7',
-  twitterHandle: '@bchiang7',
+  googleAnalyticsID: '',
+  googleVerification: 'l7q4DTAMCi3rHquaN5n4hDyKnpGma7dipBTfev7fJEQ',
+  name: 'Shreyansh Jain',
+  location: 'Bhilai, Chhattisgarh, India',
+  email: 'shreyanshbafna.310@gmail.com',
+  github: 'https://github.com/shreyansh-jain',
+  twitterHandle: '@bafna_sb',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/shreyansh-jain',
+    },
+    {
+      name: 'Medium',
+      url: 'https://medium.com/@shreyanshbafna',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
+      url: 'https://www.linkedin.com/in/jshreyansh',
     },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
-    },
+    // {
+    //   name: 'Codepen',
+    //   url: 'https://codepen.io/bchiang7',
+    // },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      url: 'https://www.instagram.com/_shreyanshbafna_',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://twitter.com/bafna_sb',
     },
   ],
 
@@ -45,10 +49,10 @@ module.exports = {
       name: 'Experience',
       url: '/#jobs',
     },
-    {
-      name: 'Work',
-      url: '/#projects',
-    },
+    // {
+    //   name: 'Work',
+    //   url: '/#projects',
+    // },
     {
       name: 'Contact',
       url: '/#contact',
